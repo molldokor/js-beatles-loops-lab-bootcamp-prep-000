@@ -17,4 +17,9 @@ function johnLennonFacts(facts) {
   return exclFacts;
 }
 
-function 
+function iLoveTheBeatles(num) {
+  var statement = [];
+  do {
+    statement.
+  }
+}
