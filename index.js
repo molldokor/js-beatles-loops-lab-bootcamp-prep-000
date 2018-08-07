@@ -4,4 +4,5 @@ function theBeatlesPlay(musiscians, instruments) {
  for (var i = 0; i < 4; i++) {
    musiciansInstruments.unshift(`${musiscians[i]} plays ${instruments[i]}`);
  }
+ return musiciansInstruments;
 }
