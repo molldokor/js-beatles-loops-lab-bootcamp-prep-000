@@ -10,7 +10,8 @@ function theBeatlesPlay(musiscians, instruments) {
 function johnLennonFacts(facts) {
   var exclFacts = [];
   var countdown = facts.length;
-  while () {
+  while (countdown > 0) {
     exclFacts[i] = `${facts[i]}!!!`;
+    countdown--;
   }
 }
