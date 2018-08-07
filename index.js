@@ -11,7 +11,7 @@ function johnLennonFacts(facts) {
   var exclFacts = [];
   var countdown = facts.length;
   while (countdown > 0) {
-    exclFacts[i] = `${facts[i]}!!!`;
+    exclFacts[countdown] = `${facts[countdown]}!!!`;
     countdown--;
   }
 }
