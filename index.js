@@ -14,4 +14,5 @@ function johnLennonFacts(facts) {
     exclFacts[countdown] = `${facts[countdown]}!!!`;
     countdown--;
   }
+  return exclFacts;
 }
