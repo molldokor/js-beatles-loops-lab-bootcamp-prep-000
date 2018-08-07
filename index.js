@@ -8,5 +8,8 @@ function theBeatlesPlay(musiscians, instruments) {
 }
 
 function johnLennonFacts(facts) {
-  while ()
+  var exclFacts = [];
+  while () {
+    exclFacts[i] = `${facts[i]}!!!`;
+  }
 }
